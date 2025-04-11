@@ -71,7 +71,9 @@ module "droplet" {
 | <a name="requirement_digitalocean"></a> [digitalocean](#requirement\_digitalocean) | 2.46.0 |
 ## Modules
 
-No modules.
+| Name | Source | Version |
+|------|--------|---------|
+| <a name="module_labels"></a> [labels](#module\_labels) | git@github.com:dumberdore/tf-do-labels | n/a |
 ## Resources
 
 | Name | Type |
