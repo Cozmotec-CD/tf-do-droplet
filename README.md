@@ -73,7 +73,7 @@ module "droplet" {
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | git@github.com:dumberdore/tf-do-labels | n/a |
+| <a name="module_labels"></a> [labels](#module\_labels) | git@github.com:Cozmotec-CD/tf-do-labels | n/a |
 ## Resources
 
 | Name | Type |
